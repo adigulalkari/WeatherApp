@@ -59,6 +59,7 @@
 		065D31222C81A31400391DD9 = {
 			isa = PBXGroup;
 			children = (
+				065D315A2C81F5DB00391DD9 /* README.md */,
 				065D312D2C81A31400391DD9 /* WeatherApp */,
 				065D312C2C81A31400391DD9 /* Products */,
 			);
@@ -84,7 +85,6 @@
 				065D314F2C81BCB800391DD9 /* Extensions.swift */,
 				065D31562C81D91300391DD9 /* .gitignore */,
 				065D31582C81D9DA00391DD9 /* Secrets.plist */,
-				065D315A2C81F5DB00391DD9 /* README.md */,
 			);
 			path = WeatherApp;
 			sourceTree = "<group>";
