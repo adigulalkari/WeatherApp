@@ -22,6 +22,7 @@
 		065D31552C81D82200391DD9 /* WeatherManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 065D31542C81D82200391DD9 /* WeatherManager.swift */; };
 		065D31572C81D91300391DD9 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 065D31562C81D91300391DD9 /* .gitignore */; };
 		065D31592C81D9DA00391DD9 /* Secrets.plist in Resources */ = {isa = PBXBuildFile; fileRef = 065D31582C81D9DA00391DD9 /* Secrets.plist */; };
+		065D315B2C81F5DB00391DD9 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 065D315A2C81F5DB00391DD9 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		065D31542C81D82200391DD9 /* WeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherManager.swift; sourceTree = "<group>"; };
 		065D31562C81D91300391DD9 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		065D31582C81D9DA00391DD9 /* Secrets.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Secrets.plist; sourceTree = "<group>"; };
+		065D315A2C81F5DB00391DD9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				065D314F2C81BCB800391DD9 /* Extensions.swift */,
 				065D31562C81D91300391DD9 /* .gitignore */,
 				065D31582C81D9DA00391DD9 /* Secrets.plist */,
+				065D315A2C81F5DB00391DD9 /* README.md */,
 			);
 			path = WeatherApp;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				065D315B2C81F5DB00391DD9 /* README.md in Resources */,
 				065D31572C81D91300391DD9 /* .gitignore in Resources */,
 				065D31592C81D9DA00391DD9 /* Secrets.plist in Resources */,
 				065D31362C81A31600391DD9 /* Preview Assets.xcassets in Resources */,
